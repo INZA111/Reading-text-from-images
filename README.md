@@ -1,1 +1,1 @@
-# Reading-textr-from-images
+# Reading-text-from-images
